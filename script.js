@@ -3,11 +3,11 @@ function cekKelulusan() {
     var hasilElement = document.getElementById("hasil");
     
     var dataSiswa = {
-        "12345": "Lulus",
-        "234567": "Tidak Lulus",
-        "123456": "Lulus",
-        "456789": "Tidak Lulus",
-        "567890": "Lulus"
+        "4337857201230039": "Tidak Lulus",
+        "4337857201230028": "Lulus",
+        "4337857201230029": "Lulus",
+        "4337857201230072": "Lulus",
+        "4337857201230062": "Lulus"
     };
 
     if (nomorIdentitas in dataSiswa) {
