@@ -3,7 +3,7 @@ function cekKelulusan() {
     var hasilElement = document.getElementById("hasil");
     
     var dataSiswa = {
-        "4337857201230039": "Tidak Lulus",
+        "4337857201230039": "Lulus",
         "4337857201230028": "Lulus",
         "4337857201230029": "Lulus",
         "4337857201230072": "Lulus",
